@@ -14,7 +14,7 @@ Had to make the game of Tic Tac Toe using Javascript to control HTML and CSS fil
 ### Challenges (you can include images and code block here)
 Attempting to set a win condition to the project has proven very difficult given the timeframe alotted.
 Although I have researched multiple different ways to approach the problem (indexOf,some(),regex etc), i have been
-unable to develop a solution
+unable to develop a solution.
 
 ### Learning points
 I need to learn to keep better track of my code, especially when dealing with nested loops

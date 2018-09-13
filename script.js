@@ -41,7 +41,7 @@ game.startOver = () =>{
        location.reload();
     }
    }
- }
+ };
 
 // Function to allow addition of X and O to board. Add to Array of pressed buttons. Changes Player turn.
 game.boardSet = () =>{
