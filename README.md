@@ -12,9 +12,11 @@ Had to make the game of Tic Tac Toe using Javascript to control HTML and CSS fil
 
 
 ### Challenges (you can include images and code block here)
-1. Trying to figure out the win condition.
-2. Trying to stop the user being able to re-click a clicked square to change its value.
+Attempting to set a win condition to the project has proven very difficult given the timeframe alotted.
+Although I have researched multiple different ways to approach the problem (indexOf,some(),regex etc), i have been
+unable to develop a solution
 
 ### Learning points
-1. The importance of researching code that you don't know much about.
-2. Getting better with functions and object oriented programming.
+I need to learn to keep better track of my code, especially when dealing with nested loops
+Approaching a task with an OOP structure in mind is much easier now.
+Commenting as i go has helped me to better understand areas of my work.
